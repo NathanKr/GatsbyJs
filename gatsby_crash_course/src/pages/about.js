@@ -1,11 +1,12 @@
-import React from 'react';
+import React from 'react'
+import Layout from '../components/layout'
+import { Link } from 'gatsby'
 
-const About = () => {
-    return (
-        <div>
-            This About
-        </div>
-    );
-};
 
-export default About;
+const About = () => (
+  <Layout>
+    <h2>This is About </h2> 
+  </Layout>
+)
+
+export default About

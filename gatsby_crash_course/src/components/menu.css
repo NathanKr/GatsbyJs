@@ -1,0 +1,10 @@
+.Menu {
+    text-align: center;
+    background-color: lightgray;
+    padding: 10px 0;
+}
+
+ a{
+    margin:20px;
+    text-decoration: none;
+}
